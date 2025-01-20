@@ -2,6 +2,6 @@
 
 
 - 🌱 Atualmente cursando Sistemas de Informação na UFU.
-- 📫 Contate-me no email: evellynfernanda.56@gmail.com
+- 📫 Contate-me no email: evellyn.machado@ufu.br
 - 😄 Pronomes: ELA/DELA.
 - ⚡ desenvolvedora back-end júnior.
