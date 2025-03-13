@@ -11,10 +11,15 @@
 ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical)
 
 
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=dark)
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=gruvbox)
 
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=pastel)
 
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=highcontrast)
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=minimal)
+
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=light)
+
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=dracula)
 
 
 
