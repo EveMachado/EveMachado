@@ -1,11 +1,11 @@
 ### Olá, eu sou a Evellyn Machado :)
 
+
 - 🌱 Atualmente cursando Sistemas de Informação na UFU.
 - 📫 Contate-me no email: evellyn.machado@ufu.br
 - 😄 Pronomes: ELA/DELA.
-- ⚡ Desenvolvedora back-end júnior.
+- ⚡ desenvolvedora back-end júnior.
 
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px;">## 👩‍💻 Linguagens usadas:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical" alt="Linguagens usadas" style="margin-top: 20px;" />
-</div>
+
+##👩‍💻 Linguagens usadas:
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical)
