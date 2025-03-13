@@ -6,6 +6,6 @@
 - ⚡ Desenvolvedora back-end júnior.
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px;">👩‍💻 Linguagens usadas:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical" alt="Linguagens usadas" />
+  <p style="margin-right: 20px;">## 👩‍💻 Linguagens usadas:</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical" alt="Linguagens usadas" style="margin-top: 20px;" />
 </div>
