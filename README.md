@@ -10,6 +10,7 @@
 
 ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=dracula)
 
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical&hide=html)
 
 
 
