@@ -10,6 +10,10 @@
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EveMachado&theme=transparent)
 
 
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical)
+
+
+
 
 
 
