@@ -7,6 +7,8 @@
 - ⚡ desenvolvedora back-end júnior.
 
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EveMachado&theme=radical)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EveMachado&theme=merko)
+
+
 
 
